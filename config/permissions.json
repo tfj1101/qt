@@ -1,0 +1,25 @@
+{
+    "manage_users": "管理用户",
+    "manage_roles": "管理角色",
+    "edit_documents": "编辑文档",
+    "view_reports": "查看报表",
+
+
+    "submit_documents": "提交批文",
+    "approve_documents": "审批批文",
+    "view_all_documents": "查看所有文档",
+    "manage_workflow": "管理审批流程",
+    "export_reports": "导出报表",
+    
+
+    "audit_logs": "查看审计日志",
+    "system_config": "系统配置",
+    
+
+    "upload_attachments": "上传附件",
+    "download_attachments": "下载附件",
+    
+
+    "delegate_approval": "转审权限",
+    "emergency_stop": "紧急终止流程"
+}
