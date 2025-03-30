@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/eye.png</file>
+        <file>res/eye-close.png</file>
+        <file>config/approvals.sql</file>
+        <file>config/document_status.sql</file>
+        <file>config/documents.sql</file>
+        <file>config/permissions.json</file>
+    </qresource>
+</RCC>
